@@ -33,6 +33,12 @@ body {
 	line-height: 1;
 }
 
+.viewcode {
+	margin-top: 0rem;
+	margin-bottom: 0rem;
+
+	justify-content: center;
+}
 ol, ul {
 	list-style: none;
 }
